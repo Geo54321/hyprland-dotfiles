@@ -1,0 +1,10 @@
+2023-04-11 12:36:37.408 [info] Extension host with pid 82402 started
+2023-04-11 12:36:37.408 [info] Skipping acquiring lock for /home/ryan/.config/Code - OSS/User/workspaceStorage/fe71f33a72141079f5dec02a8395c4f2.
+2023-04-11 12:36:37.468 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-11 12:36:37.514 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-11 12:36:37.514 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2023-04-11 12:36:37.595 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-11 12:36:37.595 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-11 12:36:37.654 [info] Eager extensions activated
+2023-04-11 12:36:37.689 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-11 12:36:37.689 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

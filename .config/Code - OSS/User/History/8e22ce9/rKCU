@@ -1,0 +1,162 @@
+{
+    "layer": "top", 
+    "position": "top", 
+    "height": 24, 
+    "modules-left": [
+        "wlr/workspaces",
+        "custom/paper",
+        "hyprland/window",
+        "custom/spotify"
+        ],
+    "modules-center": [],
+    "modules-right": [
+        "pulseaudio",
+        "backlight",
+        "cpu",
+        "memory",
+        "battery",
+        "network",
+        "custom/weather",
+        "custom/time",
+        "tray",
+        "custom/notifications",
+        "custom/power"],
+    
+    "wlr/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": false,
+        "format": "{icon}",
+        "on-scroll-up": "hyprctl dispatch workspace e-1",
+        "on-scroll-down": "hyprctl dispatch workspace e+1",
+        "on-click": "activate",
+        "format-icons": {
+            "1": "󰨞",
+            "2": "󰈹",
+            "3": "",
+            "4": "󰢛",
+            "5": "󱡁",
+            "6": "󱡅",
+            "7": "󱡂",
+            "8": "󱡃",
+            "9": "󰢷",
+            "10": "󱠿"
+        }
+    },
+    "hyprland/window": {
+        "format": "{}",
+        "separate-outputs": true,
+        "max-length": 32
+    },
+    "tray": {
+        "icon-size": 14,
+        "spacing": 7
+    },
+    "cpu": {
+        "format": " {usage}%"
+    },
+    "memory": {
+        "format": " {}%"
+    },
+    "battery": {
+        "bat": "BATT",
+        "interval": 2,
+        "states": {
+            "warning": 40,
+            "critical": 20
+        },
+        "format": "{icon}  {capacity}%",
+        "format-discharging": "󰻷 {icon}  {capacity}%",
+        "format-charging": "󰚥 {icon}  {capacity}%",
+        "format-full": "{icon}  {capacity}%",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "network#disconnected": {
+        "tooltip-format": "No connection!",
+        "format-ethernet": "",
+        "format-wifi": "",
+        "format-linked": "",
+        "format-disconnected": "",
+        "on-click": "nm-connection-editor"
+    },
+    "network#ethernet": {
+        "interface": "enp*",
+        "format-ethernet": "",
+        "format-wifi": "",
+        "format-linked": "",
+        "format-disconnected": "",
+        "tooltip-format": "{ifname}: {ipaddr}/{cidr}",
+        "on-click": "nm-connection-editor"
+    },
+    "network#wifi": {
+        "interface": "wlan*",
+        "format-ethernet": "",
+        "format-wifi": " {essid} ({signalStrength}%)",
+        "format-linked": "",
+        "format-disconnected": "",
+        "tooltip-format": "{ifname}: {ipaddr}/{cidr}",
+        "on-click": "nm-connection-editor"
+    },
+    "network#vpn": {
+        "interface": "wg1",
+        "format": "",
+        "format-disconnected": "",
+        "tooltip-format": "{ifname}: {ipaddr}/{cidr}",
+        "on-click": "nm-connection-editor"
+    },
+    "pulseaudio": {
+        "scroll-step": 5,
+        "format": "{icon} {volume}% ",
+        "format-bluetooth": "{icon}  {volume}%",
+        "format-muted": "",
+        "format-icons": {
+            "headphones": "",
+            "handsfree": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+    "backlight": {
+        "format": "{icon} {percent}%",
+        "format-icons": ["", "", ""],
+        "on-scroll-down": "brightnessctl -c backlight set 5%-",
+        "on-scroll-up": "brightnessctl -c backlight set +5%"
+    },
+    "custom/spotify": {
+        "format": " {}",
+        "max-length": 40,
+        "interval": 15,
+        "exec": "$HOME/.config/waybar/scripts/mediaplayer.sh 2> /dev/null", 
+        "exec-if": "pgrep spotify",
+        "on-click": "hyprctl dispatch workspace 3"
+    },
+    "custom/power": {
+        "format":"",
+        "on-click": "wlogout -b 4 -T 325 -B 325 -L 325 -R 325",
+        "tooltip": false
+    },
+    "custom/time": {
+        "format":"{}",
+        "interval": 1,
+        "exec": "$HOME/.config/waybar/scripts/datetime.sh",
+        "on-click": "$HOME/.config/waybar/scripts/calendar.sh"
+    },
+    "custom/weather": {
+        "format":"{}",
+        "interval": 900,
+        "exec": "$HOME/.config/waybar/scripts/weather.sh",
+        "on-click": "$HOME/.config/waybar/scripts/forecast.sh"
+    },
+    "custom/paper": {
+        "format":" ",
+        "on-click": "kitty -e $HOME/.config/waybar/scripts/choose_theme.sh",
+        "on-click-right":"$HOME/.config/waybar/scripts/random_theme.sh"
+    },
+    "custom/notifications": {
+        "format":"@@@",
+        "on-click":"kitty -e echo test"
+    }
+}

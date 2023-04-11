@@ -1,0 +1,6 @@
+2023-04-11 11:24:04.178 [info] Starting worker process with pid 55531 (type: fileWatcher, window: 1).
+2023-04-11 11:24:18.656 [info] Worker process with pid 55531 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 11:24:18.673 [info] Starting worker process with pid 55685 (type: fileWatcher, window: 1).
+2023-04-11 11:24:19.184 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-11 11:24:19.190 [info] Worker process with pid 55685 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 11:24:19.196 [info] Starting worker process with pid 55722 (type: fileWatcher, window: 1).

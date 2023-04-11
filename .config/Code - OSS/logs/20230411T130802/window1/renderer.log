@@ -1,0 +1,10 @@
+2023-04-11 13:08:07.032 [info] [perf] Render performance baseline is 62ms
+2023-04-11 13:18:26.644 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ryan/Notes/Actual/Ryan/Content/Tech/screenshots' failed: No such file or directory (EUNKNOWN) (path: /home/ryan)
+2023-04-11 13:18:26.670 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ryan/Notes/Actual/Ryan/Content/Tech/screenshots' failed: No such file or directory
+2023-04-11 13:18:26.689 [error] [UtilityProcessWorker]: terminated unexpectedly with code undefined, signal: undefined
+2023-04-11 13:18:26.689 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code undefined, signal: undefined
+2023-04-11 13:29:41.604 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ryan/.cache/mozilla/firefox/2rryat14.default-release/cache2/trash147566993' failed: No such file or directory (EUNKNOWN) (path: /home/ryan)
+2023-04-11 13:29:41.632 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ryan/.cache/mozilla/firefox/2rryat14.default-release/cache2/trash147566993' failed: No such file or directory
+2023-04-11 13:29:41.655 [error] [UtilityProcessWorker]: terminated unexpectedly with code undefined, signal: undefined
+2023-04-11 13:29:41.655 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code undefined, signal: undefined
+2023-04-11 13:45:10.758 [info] [perf] Render performance baseline is 29ms

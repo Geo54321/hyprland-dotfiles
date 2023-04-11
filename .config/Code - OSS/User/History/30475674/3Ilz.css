@@ -1,0 +1,23 @@
+* {
+	background-image: none;
+	font-family: "Mononoki Nerd Font";
+}
+window {
+	background-color: rgba(20,18,29,0.50);
+}
+button {
+    color: #E3B384;
+	background-color: #333C41;
+	border-style: solid;
+	border-width: 2px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 25%;
+}
+
+button:focus, button:active, button:hover {
+	background-color: #D05C29;
+	outline-style: none;
+}
+
+

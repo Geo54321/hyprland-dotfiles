@@ -1,0 +1,20 @@
+layer=top
+anchor=top-center
+font=mononoki Nerd Font 14
+background-color=#1e1f2289
+text-color=#ccc5be
+width=400
+margin=30,30,30
+padding=10
+border-size=2
+border-color=#C79D6B
+progress-color=over #333C41
+border-radius=4
+default-timeout=5000
+group-by=summary
+
+[grouped]
+format=<b>%s</b>\n%b
+
+[mode=do-not-disturb]
+invisible=1

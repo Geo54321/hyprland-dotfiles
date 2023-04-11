@@ -1,0 +1,14 @@
+Dotfiles: https://github.com/Geo54321/hyprland-dotfiles
+Distro: Arch Linux
+WM: Hyprland
+Font: Mononoki Nerd Font
+Themes: pywal
+App Launcher: wofi
+Bar: waybar
+File Manager: ranger
+Terminal: kitty
+System Details: fitch
+Music: Spotify with spicetify glaze theme and custom pywal colors
+Code: Code - OSS
+Browser: librewolf
+Visualizer: cava

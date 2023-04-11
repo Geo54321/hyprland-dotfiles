@@ -1,0 +1,100 @@
+@import url('file:///home/ryan/.cache/wal/colors.css');
+
+* {
+    transition: 0.2s;
+  }
+  
+  window {
+      font-family: "Mononoki Nerd Font Mono";
+      font-size: 14px;
+  }
+  
+  window {
+      margin: 0px;
+      border: 0px solid var(--color3);
+      background-color: rgba(20,18,29,0.9);
+      border-radius: 8px;
+  }
+  
+  #input {
+      padding: 4px;
+      margin: 20px;
+      padding-left: 20px;
+      border: none;
+      color: var(--color8);
+      font-weight: bold;
+      background: linear-gradient(90deg, var(--color3) 0%, var(--color7) 100%);
+         outline: none;
+      border-radius: 8px;
+  }
+  
+  #input image {
+      color: var(--color8);
+  }
+  
+  #input:focus {
+      border: none;
+         outline: none;
+  }
+  
+  #inner-box {
+      margin: 24px;
+      padding-right: 16px;
+      margin-top: 0px;
+      border: none;
+      color: #000000;
+      border-radius: 0px;
+  }
+  
+  #inner-box * {
+      transition: none;
+  }
+  
+  #outer-box {
+      margin: 0px;
+      border: none;
+      padding: 0px;
+      border-radius: 0px;
+  }
+  
+  #scroll {
+      margin-top: 5px;
+      border: none;
+      border-radius: 8px;
+      margin-bottom: 5px;
+  }
+  
+  #text:selected {
+      color: var(--color8);
+      font-weight: bold;
+  }
+  
+  #img {
+      margin-right: 20px;
+      background: transparent;
+  }
+  
+  #text {
+      color: #6D442F;
+      margin: 0px;
+      border: none;
+      padding: 0px;
+      background: transparent;
+  }
+  
+  #entry {
+      margin: 0px;
+      border: none;
+      border-radius: 8px;
+      background-color: transparent;
+      min-height:32px;
+      font-weight: bold;
+  }
+  
+  #entry:selected {
+      outline: none;
+      margin: 0px;
+      border: none;
+      border-radius: 8px;
+      background: linear-gradient(90deg, #8E2E27 50%, #E3B384 100%);
+  }

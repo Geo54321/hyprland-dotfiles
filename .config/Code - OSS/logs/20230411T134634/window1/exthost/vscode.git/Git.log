@@ -1,0 +1,53 @@
+2023-04-11 13:46:36.631 [info] Log level: Info
+2023-04-11 13:46:36.631 [info] Validating found git in: "git"
+2023-04-11 13:46:36.631 [info] Using git "2.40.0" from "git"
+2023-04-11 13:46:36.631 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-11 13:46:36.631 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-11 13:46:36.631 [info] > git rev-parse --show-toplevel [20ms]
+2023-04-11 13:46:36.631 [info] fatal: this operation must be run in a work tree
+2023-04-11 13:46:36.631 [info] > git rev-parse --show-toplevel [10ms]
+2023-04-11 13:46:36.644 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-04-11 13:46:36.655 [info] Open repository: /home/ryan/Software/hyprland-dotfiles
+2023-04-11 13:46:36.685 [info] > git config --get commit.template [13ms]
+2023-04-11 13:46:36.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-04-11 13:46:36.715 [info] > git status -z -uall [3ms]
+2023-04-11 13:46:36.741 [info] > git config --get commit.template [9ms]
+2023-04-11 13:46:36.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-11 13:46:36.756 [info] > git status -z -uall [3ms]
+2023-04-11 13:46:36.870 [info] > git rev-parse --show-toplevel [12ms]
+2023-04-11 13:46:36.870 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-11 13:46:36.891 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-11 13:46:36.891 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-11 13:46:37.097 [info] > git show --textconv :.git/COMMIT_EDITMSG [6ms]
+2023-04-11 13:46:37.097 [info] > git ls-files --stage -- /home/ryan/Software/hyprland-dotfiles/.git/COMMIT_EDITMSG [1ms]
+2023-04-11 13:46:37.211 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-11 13:46:38.022 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-11 13:46:39.136 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-11 13:46:39.136 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-11 13:46:57.759 [info] > git branch [1ms]
+2023-04-11 13:46:57.767 [info] > git reset -q HEAD -- . [2ms]
+2023-04-11 13:46:57.783 [info] > git config --get commit.template [8ms]
+2023-04-11 13:46:57.783 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-11 13:46:57.790 [info] > git status -z -uall [2ms]
+2023-04-11 13:46:58.870 [info] > git config --get commit.template [12ms]
+2023-04-11 13:46:58.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-11 13:46:58.882 [info] > git status -z -uall [2ms]
+2023-04-11 13:46:58.964 [info] > git ls-files --stage -- /home/ryan/Software/hyprland-dotfiles/.git/COMMIT_EDITMSG [1ms]
+2023-04-11 13:46:58.975 [info] > git show --textconv :.git/COMMIT_EDITMSG [1ms]
+2023-04-11 13:47:05.796 [info] > git show --textconv :reply [9ms]
+2023-04-11 13:47:05.797 [info] > git ls-files --stage -- /home/ryan/Software/hyprland-dotfiles/reply [2ms]
+2023-04-11 13:47:09.834 [info] > git config --get commit.template [1ms]
+2023-04-11 13:47:09.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-11 13:47:09.852 [info] > git status -z -uall [1ms]
+2023-04-11 13:48:46.842 [info] No remotes found in the git config file.
+2023-04-11 13:48:46.843 [info] > git config --get commit.template [7ms]
+2023-04-11 13:48:46.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-11 13:48:46.850 [info] > git status -z -uall [1ms]
+2023-04-11 13:48:51.868 [info] No remotes found in the git config file.
+2023-04-11 13:48:51.869 [info] > git config --get commit.template [8ms]
+2023-04-11 13:48:51.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-11 13:48:51.877 [info] > git status -z -uall [2ms]

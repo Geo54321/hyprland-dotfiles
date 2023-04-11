@@ -1,0 +1,148 @@
+* {
+    font-family: "Mononoki Nerd Font Mono";
+}
+
+window {
+    background: transparent;
+}
+
+window.calendar {
+    background: transparent;
+}
+
+calendar {
+    padding: 5px 3px;
+    background: hsl(258deg 0% 22%);
+}
+
+calendar.view {
+    border: solid 1px hsl(258deg 0% 28%);
+    border-radius: 10px;
+}
+
+calendar.header {
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+}
+
+.main-bar {
+    padding: 0 6px;
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+
+.workspaces, .battery, .clock, .network, .audio, .temperature, .memory, .brightness, .title {
+    background: hsl(258deg 0% 22%);
+    color: #e0e0e0;
+    border: solid 1px hsl(258deg 0% 28%);
+    padding: 0 10px;
+    padding-top: 1px;
+    margin: 5px 3px 0 3px;
+    border-radius: 50px;
+    font-size: 13px;
+}
+
+.title {
+    font-size: 13px;
+    border: none;
+    background: transparent;
+}
+
+.battery {
+    padding-top: 0;
+    padding-right: 2px;
+}
+
+.battery-low {
+    color: #ff9b4f;
+}
+
+.battery-text {
+    padding: 2px 6px 0 0;
+}
+
+.battery-icon {
+    font-size: 13px;
+    padding: 1px 8px 0 0;
+}
+
+.battery-charging-icon {
+    font-size: 13px;
+    padding: 1px 11px 0 0;
+}
+
+.audio {
+    padding-top: 0;
+}
+
+.speaker-text {
+    padding-top: 2px;
+}
+
+.speaker-icon {
+    font-size: 15px;
+}
+
+.speaker-0 { padding: 1px 3px 0 7px; }
+.speaker-1 { padding: 1px 0 0 5px; }
+.speaker-2 { padding: 1px 0 0 7px; }
+.speaker-3 { padding: 1px 1px 0 7px; }
+
+.workspaces {
+    padding: 0 7px;
+}
+
+.ws-button {
+    padding: 1px 3px 0 3px;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    color: #e0e0e0;
+}
+
+.ws-button.active {
+    color: hsl(258deg 100% 80%);
+}
+
+.temp-icon {
+    font-size: 15px;
+    padding: 0 0 0 6px;
+}
+
+.memory-icon {
+    font-size: 15px;
+    padding: 0 2px 0 6px;
+}
+
+.brightness-icon {
+    font-size: 13px;
+    padding: 0 3.5px 0 6px;
+}
+
+.network {
+    padding-top: 1px;
+    padding-right: 11px;
+}
+
+.bt-icon {
+    padding-left: 1px;
+}
+
+.eth-icon, .wl-icon {
+    padding-left: 8px;
+}
+
+.wl-icon {
+    padding-right: 4px;
+}
+
+.eth-icon {
+    padding-right: 2px;
+}
+
+.clock {
+    font-feature-settings: "tnum";
+    padding-right: 11px;
+}
+

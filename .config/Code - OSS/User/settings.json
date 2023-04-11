@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Wal Bordered",
+    "editor.cursorStyle": "block",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontFamily": "'Mononoki Nerd Font Mono', 'monospace', monospace",
+    "explorer.confirmDelete": false
+}

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+paper_dir=$HOME/Pictures/papers
+paper=$(find $paper_dir -type f | shuf -n 1)
+
+image=$(realpath $paper)
+echo $image
+wal -i "$image"
+hyprctl hyprpaper wallpaper "eDP-1,$image"
+sh $HOME/.config/mako/update-theme.sh

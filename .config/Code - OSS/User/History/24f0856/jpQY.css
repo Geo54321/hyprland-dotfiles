@@ -1,0 +1,98 @@
+* {
+    transition: 0.2s;
+  }
+  
+  window {
+      font-family: "Mononoki Nerd Font Mono";
+      font-size: 14px;
+  }
+  
+  window {
+      margin: 0px;
+      border: 0px solid --wofi-color3;
+      background-color: rgba(--wofi-rgb-color0,0.9);
+      border-radius: 32px;
+  }
+  
+  #input {
+      padding: 4px;
+      margin: 20px;
+      padding-left: 20px;
+      border: none;
+      color: --wofi-color7;
+      font-weight: bold;
+      background: linear-gradient(90deg, --wofi-color3 0%, --wofi-color6 100%);
+         outline: none;
+      border-radius: 8px;
+  }
+  
+  #input image {
+      color: #fff;
+  }
+  
+  #input:focus {
+      border: none;
+         outline: none;
+  }
+  
+  #inner-box {
+      margin: 24px;
+      padding-right: 16px;
+      margin-top: 0px;
+      border: none;
+      color: #000000;
+      border-radius: 0px;
+  }
+  
+  #inner-box * {
+      transition: none;
+  }
+  
+  #outer-box {
+      margin: 0px;
+      border: none;
+      padding: 0px;
+      border-radius: 0px;
+  }
+  
+  #scroll {
+      margin-top: 5px;
+      border: none;
+      border-radius: 8px;
+      margin-bottom: 5px;
+  }
+  
+  #text:selected {
+      color: --wofi-color7;
+      font-weight: bold;
+  }
+  
+  #img {
+      margin-right: 20px;
+      background: transparent;
+  }
+  
+  #text {
+      color: --wofi-color7;
+      margin: 0px;
+      border: none;
+      padding: 0px;
+      background: transparent;
+  }
+  
+  #entry {
+      margin: 0px;
+      border: none;
+      border-radius: 8px;
+      background-color: transparent;
+      min-height:32px;
+      font-weight: bold;
+  }
+  
+  #entry:selected {
+      outline: none;
+      margin: 0px;
+      border: none;
+      border-radius: 8px;
+      background: linear-gradient(90deg, --wofi-color3 50%, --wofi-color6 100%);
+  }

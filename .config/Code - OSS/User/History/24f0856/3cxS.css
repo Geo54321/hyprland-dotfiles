@@ -1,0 +1,98 @@
+* {
+    transition: 0.2s;
+  }
+  
+  window {
+      font-family: "Mononoki Nerd Font Mono";
+      font-size: 14px;
+  }
+  
+  window {
+      margin: 0px;
+      border: 0px solid --wofi-color3;
+      background-color: rgba(20,18,29,0.9);
+      border-radius: 8px;
+  }
+  
+  #input {
+      padding: 4px;
+      margin: 20px;
+      padding-left: 20px;
+      border: none;
+      color: #A2805D;
+      font-weight: bold;
+      background: linear-gradient(90deg, --wofi-color3 0%, #E3B384 100%);
+         outline: none;
+      border-radius: 8px;
+  }
+  
+  #input image {
+      color: #fff;
+  }
+  
+  #input:focus {
+      border: none;
+         outline: none;
+  }
+  
+  #inner-box {
+      margin: 24px;
+      padding-right: 16px;
+      margin-top: 0px;
+      border: none;
+      color: #000000;
+      border-radius: 0px;
+  }
+  
+  #inner-box * {
+      transition: none;
+  }
+  
+  #outer-box {
+      margin: 0px;
+      border: none;
+      padding: 0px;
+      border-radius: 0px;
+  }
+  
+  #scroll {
+      margin-top: 5px;
+      border: none;
+      border-radius: 8px;
+      margin-bottom: 5px;
+  }
+  
+  #text:selected {
+      color: var(--test);
+      font-weight: bold;
+  }
+  
+  #img {
+      margin-right: 20px;
+      background: transparent;
+  }
+  
+  #text {
+      color: var(--color2) !important;
+      margin: 0px;
+      border: none;
+      padding: 0px;
+      background: transparent;
+  }
+  
+  #entry {
+      margin: 0px;
+      border: none;
+      border-radius: 8px;
+      background-color: transparent;
+      min-height:32px;
+      font-weight: bold;
+  }
+  
+  #entry:selected {
+      outline: none;
+      margin: 0px;
+      border: none;
+      border-radius: 8px;
+      background: linear-gradient(90deg, #8E2E27 50%, #E3B384 100%);
+  }

@@ -1,0 +1,17 @@
+2023-04-11 07:57:48.048 [info] Extension host with pid 1273 started
+2023-04-11 07:57:48.048 [info] Skipping acquiring lock for /home/ryan/.config/Code - OSS/User/workspaceStorage/e2f75c4c501513d12836bbee46c23acc.
+2023-04-11 07:57:48.110 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-11 07:57:48.111 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:properties'
+2023-04-11 07:57:48.204 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-11 07:57:48.204 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2023-04-11 07:57:48.268 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-11 07:57:48.268 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-11 07:57:48.398 [info] Eager extensions activated
+2023-04-11 07:57:48.427 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-11 07:57:48.427 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-11 08:01:26.016 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-11 08:01:26.017 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-11 08:01:26.017 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-04-11 08:20:43.137 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-04-11 09:05:35.841 [info] Extension host terminating: received terminate message from renderer
+2023-04-11 09:05:35.875 [info] Extension host with pid 1273 exiting with code 0

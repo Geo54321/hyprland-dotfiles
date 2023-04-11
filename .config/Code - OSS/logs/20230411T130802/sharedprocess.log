@@ -1,0 +1,18 @@
+2023-04-11 13:08:04.342 [info] Starting worker process with pid 6278 (type: fileWatcher, window: 1).
+2023-04-11 13:18:26.688 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-11 13:18:26.689 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-11 13:18:26.691 [info] Worker process with pid 6278 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 13:18:26.699 [info] Starting worker process with pid 11166 (type: fileWatcher, window: 1).
+2023-04-11 13:18:26.700 [info] Worker process with pid 11166 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 13:18:26.707 [info] Starting worker process with pid 11167 (type: fileWatcher, window: 1).
+2023-04-11 13:29:41.654 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-11 13:29:41.656 [info] Worker process with pid 11167 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 13:29:41.663 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-11 13:29:41.668 [info] Starting worker process with pid 17248 (type: fileWatcher, window: 1).
+2023-04-11 13:29:41.674 [info] Worker process with pid 17248 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 13:29:41.678 [info] Starting worker process with pid 17250 (type: fileWatcher, window: 1).
+2023-04-11 13:45:06.396 [info] Worker process with pid 17250 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 13:45:06.410 [info] Starting worker process with pid 21571 (type: fileWatcher, window: 1).
+2023-04-11 13:45:07.528 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-11 13:45:07.528 [info] Worker process with pid 21571 terminated normally (type: fileWatcher, window: 1).
+2023-04-11 13:45:07.533 [info] Starting worker process with pid 21627 (type: fileWatcher, window: 1).
