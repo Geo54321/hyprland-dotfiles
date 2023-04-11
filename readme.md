@@ -3,7 +3,7 @@
 These are my dotfiles for my hyprland setup on my laptop. For more information please keep reading on, otherwise download away.
 
 ## Workflow Example
-![workflow](/workflow.mp4)
+![workflow](/workflow.mov)
 
 ## Other Themes
 See other themes at ![themes.md](themes.md)
