@@ -1,252 +1,252 @@
 
 ## Albedo
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/albedo/wofi.jpg]]
+![image](/screenshots/albedo/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/albedo/ranger.jpg]]
+![image](/screenshots/albedo/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/albedo/spotify.jpg]]
+![image](/screenshots/albedo/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/albedo/visualizer.jpg]]
+![image](/screenshots/albedo/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/albedo/code.jpg]]
+![image](/screenshots/albedo/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/albedo/browser.jpg]]
+![image](/screenshots/albedo/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/albedo/obsidian.jpg]]
+![image](/screenshots/albedo/obsidian.jpg)
 
 
 ## Branch
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/branch/wofi.jpg]]
+![image](/screenshots/branch/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/branch/ranger.jpg]]
+![image](/screenshots/branch/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/branch/spotify.jpg]]
+![image](/screenshots/branch/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/branch/visualizer.jpg]]
+![image](/screenshots/branch/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/branch/code.jpg]]
+![image](/screenshots/branch/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/branch/browser.jpg]]
+![image](/screenshots/branch/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/branch/obsidian.jpg]]
+![image](/screenshots/branch/obsidian.jpg)
 
 
 ## Cinder
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/cinder/wofi.jpg]]
+![image](/screenshots/cinder/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/cinder/ranger.jpg]]
+![image](/screenshots/cinder/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/cinder/spotify.jpg]]
+![image](/screenshots/cinder/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/cinder/visualizer.jpg]]
+![image](/screenshots/cinder/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/cinder/code.jpg]]
+![image](/screenshots/cinder/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/cinder/browser.jpg]]
+![image](/screenshots/cinder/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/cinder/obsidian.jpg]]
+![image](/screenshots/cinder/obsidian.jpg)
 
 
 ## Cozy
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/cozy/wofi.jpg]]
+![image](/screenshots/cozy/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/cozy/ranger.jpg]]
+![image](/screenshots/cozy/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/cozy/spotify.jpg]]
+![image](/screenshots/cozy/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/cozy/visualizer.jpg]]
+![image](/screenshots/cozy/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/cozy/code.jpg]]
+![image](/screenshots/cozy/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/cozy/browser.jpg]]
+![image](/screenshots/cozy/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/cozy/obsidian.jpg]]
+![image](/screenshots/cozy/obsidian.jpg)
 
 
 ## Fish
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/fish/wofi.jpg]]
+![image](/screenshots/fish/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/fish/ranger.jpg]]
+![image](/screenshots/fish/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/fish/spotify.jpg]]
+![image](/screenshots/fish/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/fish/visualizer.jpg]]
+![image](/screenshots/fish/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/fish/code.jpg]]
+![image](/screenshots/fish/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/fish/browser.jpg]]
+![image](/screenshots/fish/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/fish/obsidian.jpg]]
+![image](/screenshots/fish/obsidian.jpg)
 
 
 ## Lake
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/lake/wofi.jpg]]
+![image](/screenshots/lake/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/lake/ranger.jpg]]
+![image](/screenshots/lake/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/lake/spotify.jpg]]
+![image](/screenshots/lake/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/lake/visualizer.jpg]]
+![image](/screenshots/lake/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/lake/code.jpg]]
+![image](/screenshots/lake/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/lake/browser.jpg]]
+![image](/screenshots/lake/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/lake/obsidian.jpg]]
+![image](/screenshots/lake/obsidian.jpg)
 
 
 ## Red Sun
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/redsun/wofi.jpg]]
+![image](/screenshots/redsun/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/redsun/ranger.jpg]]
+![image](/screenshots/redsun/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/redsun/spotify.jpg]]
+![image](/screenshots/redsun/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/redsun/visualizer.jpg]]
+![image](/screenshots/redsun/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/redsun/code.jpg]]
+![image](/screenshots/redsun/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/redsun/browser.jpg]]
+![image](/screenshots/redsun/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/redsun/obsidian.jpg]]
+![image](/screenshots/redsun/obsidian.jpg)
 
 
 ## Shaper
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/shaper/wofi.jpg]]
+![image](/screenshots/shaper/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/shaper/ranger.jpg]]
+![image](/screenshots/shaper/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/shaper/spotify.jpg]]
+![image](/screenshots/shaper/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/shaper/visualizer.jpg]]
+![image](/screenshots/shaper/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/shaper/code.jpg]]
+![image](/screenshots/shaper/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/shaper/browser.jpg]]
+![image](/screenshots/shaper/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/shaper/obsidian.jpg]]
+![image](/screenshots/shaper/obsidian.jpg)
 
 
 ## Tomb
 #### #### App Launcher
-![[Ryan/Content/Tech/screenshots/tomb/wofi.jpg]]
+![image](/screenshots/tomb/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/tomb/ranger.jpg]]
+![image](/screenshots/tomb/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/tomb/spotify.jpg]]
+![image](/screenshots/tomb/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/tomb/visualizer.jpg]]
+![image](/screenshots/tomb/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/tomb/code.jpg]]
+![image](/screenshots/tomb/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/tomb/browser.jpg]]
+![image](/screenshots/tomb/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/tomb/obsidian.jpg]]
+![image](/screenshots/tomb/obsidian.jpg)
 
 
 ## Tree
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/tree/wofi.jpg]]
+![image](/screenshots/tree/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/tree/ranger.jpg]]
+![image](/screenshots/tree/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/tree/spotify.jpg]]
+![image](/screenshots/tree/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/tree/visualizer.jpg]]
+![image](/screenshots/tree/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/tree/code.jpg]]
+![image](/screenshots/tree/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/tree/browser.jpg]]
+![image](/screenshots/tree/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/tree/obsidian.jpg]]
+![image](/screenshots/tree/obsidian.jpg)
 
 
 ## Violet
 #### App Launcher
-![[Ryan/Content/Tech/screenshots/violet/wofi.jpg]]
+![image](/screenshots/violet/wofi.jpg)
 
 #### File Manager
-![[Ryan/Content/Tech/screenshots/violet/ranger.jpg]]
+![image](/screenshots/violet/ranger.jpg)
 
 #### Spotify
-![[Ryan/Content/Tech/screenshots/violet/spotify.jpg]]
+![image](/screenshots/violet/spotify.jpg)
 
 #### Visualizer
-![[Ryan/Content/Tech/screenshots/violet/visualizer.jpg]]
+![image](/screenshots/violet/visualizer.jpg)
 
 #### Code
-![[Ryan/Content/Tech/screenshots/violet/code.jpg]]
+![image](/screenshots/violet/code.jpg)
 
 #### Browser
-![[Ryan/Content/Tech/screenshots/violet/browser.jpg]]
+![image](/screenshots/violet/browser.jpg)
 
 #### Obsidian
-![[Ryan/Content/Tech/screenshots/violet/obsidian.jpg]]
+![image](/screenshots/violet/obsidian.jpg)
