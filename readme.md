@@ -32,7 +32,7 @@ spotify-launcher
 ##### Spotify Extensions
 - spicetify - custom spotify look
 - spicetify-themes - I am using the "Glaze" theme
-- theme colors - see [[readme.md#Spicetify Set Up]] section below for more details
+- theme colors - see the "Spicetify Setup" section below for more details
 
 ##### Links
 - https://github.com/kpcyrd/spotify-launcher
