@@ -3,10 +3,10 @@
 These are my dotfiles for my hyprland setup on my laptop. For more information please keep reading on, otherwise download away.
 
 ## Workflow Example
-![[workflow.mp4]]
+![workflow](/workflow.mp4)
 
 ## Other Themes
-See other themes at [[themes.md]]
+See other themes at ![themes.md](themes.md)
 
 ## Script/Config Credit
 I borrowed bits and pieces of scripts and configs from many people both from the /r/unixporn community and multiple forums around the internet. 
