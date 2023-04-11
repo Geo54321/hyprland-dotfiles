@@ -30,24 +30,24 @@ If you do recognize the piece, please let me know I would love to give the origi
 spotify-launcher
 
 ##### Spotify Extensions
-spicetify - custom spotify look
-spicetify-themes - I am using the "Glaze" theme
-theme colors - see [[readme.md#Spicetify Set Up]] section below for more details
+- spicetify - custom spotify look
+- spicetify-themes - I am using the "Glaze" theme
+- theme colors - see [[readme.md#Spicetify Set Up]] section below for more details
 
 ##### Links
-https://github.com/kpcyrd/spotify-launcher
-https://github.com/spicetify/spicetify-cli
-https://github.com/spicetify/spicetify-themes
+- https://github.com/kpcyrd/spotify-launcher
+- https://github.com/spicetify/spicetify-cli
+- https://github.com/spicetify/spicetify-themes
 
 ### File Manager
 ranger
 
 ##### File Manager Extensions
-kitty - image previews
-ffmpgthumbnailer - video thumbnails
-mpv - video playback
-feh - image viewing
-zathura - pdf viewinig
+- kitty - image previews
+- ffmpgthumbnailer - video thumbnails
+- mpv - video playback
+- feh - image viewing
+- zathura - pdf viewinig
 
 ### Font
 Mononoki Nerd Font
