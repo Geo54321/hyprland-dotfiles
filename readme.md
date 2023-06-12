@@ -18,7 +18,6 @@ Unfortunately if credit is not listed I don't know who the artist is for the pie
 
 If you do recognize the piece, please let me know I would love to give the original artist credit.
 
-- albedo - https://www.artstation.com/raikoart
 - cozy - I think this is from the movie "Garden of Words"
 - lake - from the movie "Maquia: When the Promised Flower Blooms"
 - redsun - https://www.artstation.com/aenamiart
