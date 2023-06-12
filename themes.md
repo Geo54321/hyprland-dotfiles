@@ -1,27 +1,3 @@
-
-## Albedo
-#### App Launcher
-![image](/screenshots/albedo/wofi.jpg)
-
-#### File Manager
-![image](/screenshots/albedo/ranger.jpg)
-
-#### Spotify
-![image](/screenshots/albedo/spotify.jpg)
-
-#### Visualizer
-![image](/screenshots/albedo/visualizer.jpg)
-
-#### Code
-![image](/screenshots/albedo/code.jpg)
-
-#### Browser
-![image](/screenshots/albedo/browser.jpg)
-
-#### Obsidian
-![image](/screenshots/albedo/obsidian.jpg)
-
-
 ## Branch
 #### App Launcher
 ![image](/screenshots/branch/wofi.jpg)
